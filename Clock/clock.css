@@ -34,12 +34,14 @@
     background-color: darkgrey;
     font-style: italic;
     border-color: skyblue;
+    border-width: 3px;
     width: 80px;
 }
 
 .button:hover {
     border-color: deepskyblue;
     background-color: lightgray;
+    color: dimgrey;
 }
 
 .button:focus {
